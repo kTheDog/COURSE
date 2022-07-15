@@ -1,0 +1,24 @@
+body{
+    background-color: lightgray;
+}
+
+
+h1{
+    font-size: 30px;
+    color:aqua
+}
+
+h2{
+    font-size: 40px;
+    color:red
+}
+
+.big{
+    font-size: 300px;
+}
+.uppercase{
+    text-transform: capitalize;    
+}
+.big.uppercase{
+    text-transform:lowercase;
+}
